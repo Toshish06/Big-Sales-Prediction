@@ -2,7 +2,7 @@
 Welcome to the Big Sale Prediction project! This project aims to predict the success of big sales events using the Random Forest algorithm. The Random Forest algorithm is a powerful machine learning technique that combines multiple decision trees to make accurate predictions.
 
 Project Overview
-The goal of this project is to develop a predictive model that can determine the success of big sales events based on various features such as customer demographics, historical sales data, advertising efforts, and other relevant factors. By analyzing these factors, we can gain insights into the key drivers of successful sales events and make informed decisions for future sales strategies.
+The goal of this project is to develop a predictive model that can determine the success of big sales events based on various features such as'Item_Identifier', 'Item_Weight', 'Item_Fat_Content', 'Item_Visibility','Item_Type', 'Item_MRP', 'Outlet_Identifier','Outlet_Establishment_Year', 'Outlet_Size', 'Outlet_Location_Type', 'Outlet_Type', 'Item_Outlet_Sales', and other relevant factors. By analyzing these factors, we can gain insights into the key drivers of successful sales events and make informed decisions for future sales strategies.
 
 Dataset
 The dataset used in this project consists of historical data related to past big sales events. It includes various features such as customer demographics (age, gender, income), historical sales data, advertising expenditure, and other relevant information.
